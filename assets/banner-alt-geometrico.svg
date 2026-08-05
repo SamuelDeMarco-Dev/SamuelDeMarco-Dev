@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Samuel De Marco — Desenvolvedor de Software">
+  <title>Samuel De Marco — Desenvolvedor de Software</title>
+
+  <defs>
+    <clipPath id="frameC"><rect width="1200" height="300"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frameC)">
+    <rect width="1200" height="300" fill="#0A1633"/>
+
+    <rect x="742" y="0" width="96" height="300" fill="#FF6B5B"/>
+    <circle cx="990" cy="150" r="118" fill="#4C8DFF"/>
+    <path d="M1200 300 L1200 118 A182 182 0 0 0 1018 300 Z" fill="#FFB86B"/>
+    <rect x="742" y="132" width="96" height="36" fill="#0A1633"/>
+
+    <text x="60" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="5" fill="#7EE0C6">DESENVOLVEDOR DE SOFTWARE</text>
+
+    <text x="56" y="196" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="66" letter-spacing="-2" fill="#E9EEFB">SAMUEL DE MARCO</text>
+
+    <line x1="60" y1="224" x2="660" y2="224" stroke="#24325C" stroke-width="3"/>
+
+    <text x="60" y="256" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#A8B3D4">Sustentação e evolução de sistemas · Node.js · APIs REST</text>
+  </g>
+</svg>
